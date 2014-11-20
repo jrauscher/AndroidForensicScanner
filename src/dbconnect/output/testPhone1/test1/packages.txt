@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------
+Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test1.db
+Table Name: packages
+Query: select * from packages
+
+Columns:
+_id,  package
+
+Data
+---------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------
+Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test.db
+Table Name: status_updates
+Query: select * from status_updates
+
+Columns:
+| status_update_data_id   | status       | status_ts    | status_res_package   | status_label   | status_icon 
+
+Data
+---------------------------------------------------------------------------------------

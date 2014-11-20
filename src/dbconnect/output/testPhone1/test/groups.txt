@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------
+Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test.db
+Table Name: groups
+Query: select * from groups
+
+Columns:
+| _id               | package_id        | account_name      | account_type      | sourceid          | version           | dirty             | title             | title_res         | notes             | system_id         | deleted           | group_visible     | should_sync       | sync1             | sync2             | sync3             | sync4           
+
+Data
+| 1                 | null              | danmeester402@gmail.com   | com.google        | 6                 | 1                 | 0                 | System Group: My Contacts   | null              | System Group: My Contacts   | Contacts          | 0                 | 1                 | 1                 | null              | "YDwreyI."        | 1970-01-01T00:00:00.000Z   | null            
+| 2                 | null              | danmeester402@gmail.com   | com.google        | d                 | 1                 | 0                 | System Group: Friends   | null              | System Group: Friends   | Friends           | 0                 | 0                 | 1                 | null              | "YDwreyI."        | 1970-01-01T00:00:00.000Z   | null            
+| 3                 | null              | danmeester402@gmail.com   | com.google        | e                 | 1                 | 0                 | System Group: Family   | null              | System Group: Family   | Family            | 0                 | 0                 | 1                 | null              | "YDwreyI."        | 1970-01-01T00:00:00.000Z   | null            
+| 4                 | null              | danmeester402@gmail.com   | com.google        | f                 | 1                 | 0                 | System Group: Coworkers   | null              | System Group: Coworkers   | Coworkers         | 0                 | 0                 | 1                 | null              | "YDwreyI."        | 1970-01-01T00:00:00.000Z   | null            
+| 5                 | null              | danmeester402@gmail.com   | com.google        | 4b98768a8e328b14   | 3                 | 0                 | Starred in Android   | null              | Starred in Android   | null              | 0                 | 0                 | 1                 | http://www.google.com/m8/feeds/groups/danmeester402%40gmail.com/base2_property-android/4b98768a8e328b14?v=3.0   | "QXg9ejVSLit7ImA9WxBTE0wNRwQ."   | 2009-12-09T00:03:20.662Z   | null            
+| 9                 | null              | danmeester@cox.net   | com.android.exchange   | Personal          | 2                 | 0                 | Personal          | null              | null              | null              | 0                 | 1                 | 1                 | null              | null              | null              | null            
+| 10                | null              | danmeester@cox.net   | com.android.exchange   | Business          | 2                 | 0                 | Business          | null              | null              | null              | 0                 | 1                 | 1                 | null              | null              | null              | null            
+---------------------------------------------------------------------------------------

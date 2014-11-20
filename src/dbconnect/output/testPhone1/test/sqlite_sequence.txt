@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------
+Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test.db
+Table Name: sqlite_sequence
+Query: select * from sqlite_sequence
+
+Columns:
+| name         | seq        
+
+Data
+| mimetypes    | 12         
+| calls        | 18410      
+| groups       | 10         
+| raw_contacts   | 1374       
+| data         | 4721       
+| contacts     | 1375       
+| agg_exceptions   | 1          
+---------------------------------------------------------------------------------------

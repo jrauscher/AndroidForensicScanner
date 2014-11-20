@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------
+Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test1.db
+Table Name: android_metadata
+Query: select * from android_metadata
+
+Columns:
+locale
+
+Data
+en_US
+---------------------------------------------------------------------------------------

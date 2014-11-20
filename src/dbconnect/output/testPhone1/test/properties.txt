@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------
+Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test.db
+Table Name: properties
+Query: select * from properties
+
+Columns:
+| property_key   | property_value 
+
+Data
+| contacts_imported_v1   | 1          
+---------------------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------------------
+Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test1.db
+Table Name: mimetypes
+Query: select * from mimetypes
+
+Columns:
+_id,  mimetype
+
+Data
+1,  vnd.android.cursor.item/email_v2
+2,  vnd.android.cursor.item/im
+3,  vnd.android.cursor.item/postal-address_v2
+4,  vnd.android.cursor.item/group_membership
+5,  vnd.android.cursor.item/name
+6,  vnd.android.cursor.item/phone_v2
+7,  vnd.android.cursor.item/organization
+8,  vnd.android.cursor.item/photo
+9,  vnd.android.cursor.item/note
+10,  vnd.android.cursor.item/website
+11,  vnd.android.cursor.item/contact_event
+12,  vnd.android.cursor.item/nickname
+---------------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------
+Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test1.db
+Table Name: settings
+Query: select * from settings
+
+Columns:
+account_name,  account_type,  ungrouped_visible,  should_sync
+
+Data
+daninneb1@yahoo.com,  com.facebook.auth.login,  0,  1
+danmeester@cox.net,  com.android.exchange,  1,  1
+---------------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------------------
+Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test.db
+Table Name: sqlite_stat1
+Query: select * from sqlite_stat1
+
+Columns:
+| tbl          | idx          | stat       
+
+Data
+| nickname_lookup   | nickname_lookup_index   | 483 2 1    
+| contacts     | contacts_restricted_index   | 10000 9000 
+| contacts     | contacts_has_phone_index   | 10000 500  
+| contacts     | contacts_visible_index   | 10000 500 1 
+| raw_contacts   | raw_contacts_source_id_index   | 10000 1 1 1 
+| raw_contacts   | raw_contacts_contact_id_index   | 10000 2    
+| name_lookup   | name_lookup_raw_contact_id_index   | 10000 3    
+| name_lookup   | sqlite_autoindex_name_lookup_1   | 10000 3 2 1 
+| phone_lookup   | phone_lookup_index   | 10000 2 2 1 
+| phone_lookup   | phone_lookup_min_match_index   | 10000 2 2 1 
+| data         | data_mimetype_data1_index   | 60000 5000 2 
+| data         | data_raw_contact_id   | 60000 10   
+| groups       | groups_source_id_index   | 50 1 1 1   
+| nickname_lookup   | sqlite_autoindex_name_lookup_1   | 500 2 1    
+---------------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+---------------------------------------------------------------------------------------
+
+Database:test.db
+
+File: activities.txt                 Contains: contact
+File: agg_exceptions.txt             Contains: contact
+File: android_metadata.txt           Contains: en_US, locale
+File: contacts.txt                   Contains: contact
+File: data.txt                       Contains: contact
+File: groups.txt                     Contains: System Group
+File: mimetypes.txt                  Contains: contact
+File: name_lookup.txt                Contains: contact
+File: phone_lookup.txt               Contains: contact
+File: properties.txt                 Contains: contact
+File: raw_contacts.txt               Contains: contact
+File: sqlite_sequence.txt            Contains: contact
+File: sqlite_stat1.txt               Contains: contact
+---------------------------------------------------------------------------------------
+Database:test1.db
+
+File: activities.txt                 Contains: contact
+File: agg_exceptions.txt             Contains: contact
+File: android_metadata.txt           Contains: en_US, locale
+File: contacts.txt                   Contains: contact
+File: data.txt                       Contains: contact
+File: groups.txt                     Contains: System Group
+File: mimetypes.txt                  Contains: contact
+File: name_lookup.txt                Contains: contact
+File: phone_lookup.txt               Contains: contact
+File: properties.txt                 Contains: contact
+File: raw_contacts.txt               Contains: contact
+File: sqlite_sequence.txt            Contains: contact
+File: sqlite_stat1.txt               Contains: contact
+---------------------------------------------------------------------------------------
