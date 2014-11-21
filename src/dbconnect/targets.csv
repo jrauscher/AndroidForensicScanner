@@ -24,8 +24,8 @@ dbFilepaths
 \data\data\com.ebay.mobile\databases\webviewCache.db
 \data\data\com.facebook.katana\databases\fb.db
 \data\data\com.facebook.katana\databases\uploadmanager.db
-\data\data\com.facebook.katana\databases\webview.db
-\data\data\com.facebook.katana\databases\webviewCache.db
+\data\data\com.android.email\databases\webview.db
+\data\data\com.android.email\databases\webviewCache.db
 \data\data\com.google.android.apps.maps\databases\google_analytics.db
 \data\data\com.google.android.apps.maps\databases\google_latitude_activityDetections.db
 \data\data\com.google.android.apps.maps\databases\google_latitude_history.db
