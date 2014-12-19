@@ -3,6 +3,7 @@
 1.0
 
 ###System Overview:
+The Android Forensics project is a Windows-based application that will copy all of the data on your Android mobile device, to your system. Then the application will scan that information and return any data that it believes should be reviewed further. The scan provides information on call history, browser history, text messages, emails and much more. The motive behind creating this application is due to the rapid advancements in mobile device technology - particularly with how much data is now stored within them. The amount of information stored on a person’s phone is immense and manually parsing through all of that data is simply too inefficient for effective, thorough forensic analysis.
 
 ###Copyright information:
 AndroidForensicScanner is copyrighted by Jordan Rauscher and Tyler Filkins (2014).<br/>
