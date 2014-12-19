@@ -1,14 +1,0 @@
----------------------------------------------------------------------------------------
-Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test1.db
-Table Name: accounts
-Query: select * from accounts
-
-Columns:
-account_name,  account_type
-
-Data
-danmeester402@gmail.com,  com.google
-daninneb1@yahoo.com,  com.facebook.auth.login
-danmsmail@gmail.com,  com.google
-danmeester@cox.net,  com.android.exchange
----------------------------------------------------------------------------------------

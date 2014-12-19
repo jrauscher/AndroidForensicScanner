@@ -1,10 +1,0 @@
----------------------------------------------------------------------------------------
-Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test1.db
-Table Name: v1_settings
-Query: select * from v1_settings
-
-Columns:
-_id,  _sync_account,  _sync_account_type,  key,  value
-
-Data
----------------------------------------------------------------------------------------

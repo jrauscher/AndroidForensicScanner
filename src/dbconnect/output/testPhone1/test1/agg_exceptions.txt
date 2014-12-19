@@ -1,10 +1,0 @@
----------------------------------------------------------------------------------------
-Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test1.db
-Table Name: agg_exceptions
-Query: select * from agg_exceptions
-
-Columns:
-_id,  type,  raw_contact_id1,  raw_contact_id2
-
-Data
----------------------------------------------------------------------------------------

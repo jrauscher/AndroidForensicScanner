@@ -1,11 +1,0 @@
----------------------------------------------------------------------------------------
-Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone\test.db
-Table Name: _sync_state_metadata
-Query: select * from _sync_state_metadata
-
-Columns:
-version
-
-Data
-1
----------------------------------------------------------------------------------------

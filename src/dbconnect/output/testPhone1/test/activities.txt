@@ -1,10 +1,0 @@
----------------------------------------------------------------------------------------
-Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test.db
-Table Name: activities
-Query: select * from activities
-
-Columns:
-| _id               | package_id        | mimetype_id       | raw_id            | in_reply_to       | author_contact_id   | target_contact_id   | published         | thread_published   | title             | summary           | link              | thumbnail       
-
-Data
----------------------------------------------------------------------------------------

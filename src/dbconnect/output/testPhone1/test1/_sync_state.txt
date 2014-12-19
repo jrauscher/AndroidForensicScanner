@@ -1,12 +1,0 @@
----------------------------------------------------------------------------------------
-Database: jdbc:sqlite:C:\Users\Jrauscher\Desktop\Android Dev\src\dbconnect\database\testPhone1\test1.db
-Table Name: _sync_state
-Query: select * from _sync_state
-
-Columns:
-_id,  account_name,  account_type,  data
-
-Data
-1,  danmeester402@gmail.com,  com.google,  ?Þ
-767,  danmeester@cox.net,  com.android.exchange,  {DCFDA1F7-A201-4CE6-954B-296AA0B1D6A6}192
----------------------------------------------------------------------------------------
