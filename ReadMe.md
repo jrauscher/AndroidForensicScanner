@@ -28,9 +28,31 @@ Then hit "Y" for yes.<br/>
 3. Run Device_File_Puller.bat<br/>
 This will grab all the files off of the device and save them to: phoneData\"Directory Provided"\ <br/>
 4. Run Get_Main_Files.ps1<br/>
-This will move all the target files (in targets.csv) to the 5. Run Analyse_Data.bat<br/>
+This will move all the target files (in targets.csv) to the database directory.<br/>
+5. Run Analyse_Data.bat<br/>
 This will export all of the database information to text files. Along with searching for keywords in the files. <br/>Location: output\"Directory Provided"\
 <br/>
+
+#### Keywords:
+Keywords can be added to the keywords.txt file in order to find additional words.The total number of words in the file needs to be provided at the top of the file.	
+
+#### Targets:
+Targets can be added to the targets.csv file in order to add additional databases to the analyse program. 
+
+#### Interesting Files:
+~\output\YOURDEVICENAME\browser\searches.txt<br/>
+~\output\YOURDEVICENAME\contacts2\contacts.txt<br/>
+~\output\YOURDEVICENAME\EmailProvider\HostAuth.txt<br/>
+~\output\YOURDEVICENAME\EmailProvider\Message.txt<br/>
+~\output\YOURDEVICENAME\EmailProviderBody\Body.txt<br/>
+~\output\YOURDEVICENAME\CachedGeoposition\CachedGeoposition.txt<br/>
+~\output\YOURDEVICENAME\fb\mailbox_messages.txt<br/>
+~\output\YOURDEVICENAME\fb\friends_data.txt<br/>
+~\output\YOURDEVICENAME\fb\mailbox_messages.txt<br/>
+~\output\YOURDEVICENAME\item_cache\event.txt<br/>
+~\output\YOURDEVICENAME\mmssms\sms.txt<br/>
+~\output\YOURDEVICENAME\mmssms\threads.txt<br/>
+
 -----------------------------------------------------------------------
 
 ###Code contribution management:
